@@ -1,5 +1,7 @@
 class Detention
 def location
+end
+
   end
 end
 
